@@ -79,7 +79,7 @@ python manage.py runserver
 ---
 Live API URL
 
-https://backend-url.onrender.com/api/trip/plan/
+https://eldlogs-xkka.onrender.com/api/trip/plan/
 
 ---
 Loom Video Walkthrough

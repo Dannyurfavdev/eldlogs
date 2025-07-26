@@ -84,4 +84,4 @@ https://eldlogs-xkka.onrender.com/api/trip/plan/
 ---
 Loom Video Walkthrough
 
-https://loomvideo
+https://www.loom.com/share/35c94a9e6bab4dfd92bc190710e08209
